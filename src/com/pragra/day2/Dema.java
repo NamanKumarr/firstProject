@@ -4,7 +4,7 @@ public class Dema {
 
     public static void main(String[] args) {
 
-        int age = 25;
+        int f = 25;
         int life = 75;
 
         System.out.println("life left ="+ (life-age));
